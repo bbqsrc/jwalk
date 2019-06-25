@@ -19,7 +19,7 @@ Add this to your `Cargo.toml`:
 jwalk = "0.3"
 ```
 
-Lean More: [docs.rs/jwalk](https://docs.rs/jwalk)
+Learn more: [docs.rs/jwalk](https://docs.rs/jwalk)
 
 ### Example
 
